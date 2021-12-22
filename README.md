@@ -1,6 +1,6 @@
 # Broadcom Bluetooth firmware for Linux kernel
 
-![screenshot](./BCM Patch.png)
+![screenshot](./BCMPatch.png)
 
 [![Packaging status](https://repology.org/badge/tiny-repos/broadcom-bt-firmware.svg)](https://repology.org/project/broadcom-bt-firmware/versions)
 
